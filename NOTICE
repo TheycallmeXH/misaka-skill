@@ -1,0 +1,31 @@
+misaka (DSH skill)
+Copyright 2026 Katuria
+
+This repository is an independent reimplementation — for the DeepSeek Harness
+(DSH) — of the multi-agent research protocol described by the MISAKA project.
+It contains no MISAKA source code and no copied MISAKA documentation text.
+
+Attribution to the design origin, as Apache License 2.0 section 4(d) requires
+for redistributed works and derivative works:
+
+    MISAKA
+    Copyright 2026 Luciole Studio
+    https://github.com/Luciole-Studio/Misaka-Agent
+    Licensed under the Apache License, Version 2.0.
+
+What was studied (public documentation only): the seven-stage node protocol
+(plan → task cards → synthesis → red team → response → divergence review →
+fork decision), the rule that an external coding agent ("ally") may take a
+task card but never a review card, the layered-reconciliation vocabulary
+(convergence / divergence / resonance / appropriation / displacement), and
+the artifact set (plan, cards, synthesis revisions, review, divergence,
+decision, SOURCES, errata).
+
+What was deliberately not carried over: the panel/TUI, the LCM compression
+engine, the PageIndex document engine and its OCR/DjVu/LibreOffice pipeline,
+model-provider routing, automatic git commits, and the setup wizard.
+
+This project is not affiliated with, endorsed by, or sponsored by Luciole
+Studio. The name "MISAKA" appears here only to acknowledge the design origin
+and to keep the lineage auditable; no trademark rights are claimed or implied
+(Apache License 2.0, section 6).

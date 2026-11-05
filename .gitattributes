@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.mjs text eol=lf
+*.md text eol=lf
+LICENSE text eol=lf
+NOTICE text eol=lf
+*.zip binary
